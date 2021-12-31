@@ -14,7 +14,7 @@ import unittest
 import platforms
 
 
-class TestPlatforms():
+class TestPlatforms(unittest.TestCase):
 	""" """
 
 	# TODO: add unit tests
